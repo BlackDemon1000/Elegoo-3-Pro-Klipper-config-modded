@@ -1,6 +1,6 @@
-## Elegoo-3-Pro-Klipper-config-modded
+# Elegoo-3-Pro-Klipper-config-modded
 
-# TODO-LIST
+## TODO-LIST
 - [x] End-Runtime
 - [ ] Clean Printer.cfg
 - [ ] Telegram-integration
