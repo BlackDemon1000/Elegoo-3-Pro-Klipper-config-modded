@@ -3,5 +3,5 @@
 ## TODO-LIST
 - [x] End-Runtime
 - [ ] Clean Printer.cfg
-- [ ] pid-tune heater - IMPORTANT
+- [x] pid-tune heater 
 - [ ] Big Tree Tech Relay
