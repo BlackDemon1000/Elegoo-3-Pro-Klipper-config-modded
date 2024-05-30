@@ -3,5 +3,5 @@
 ## TODO-LIST
 - [x] End-Runtime
 - [ ] Clean Printer.cfg
-- [ ] Telegram-integration
+- [ ] pid-tune heater - IMPORTANT
 - [ ] Big Tree Tech Relay
