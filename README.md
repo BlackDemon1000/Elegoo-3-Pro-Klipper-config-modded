@@ -1,7 +1,7 @@
 # Elegoo-3-Pro-Klipper-config-modded
 
 ## TODO-LIST
-- [x] End-Runtime
-- [ ] Clean Printer.cfg
+- [x] end-runtime
 - [x] pid-tune heater 
-- [ ] Big Tree Tech Relay
+- [ ] clean moonraker config
+- [ ] Update all files
